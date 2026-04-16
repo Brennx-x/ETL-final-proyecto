@@ -1,3 +1,0 @@
-order_id,order_date,status,category,qty,amount,promotion_ids,is_b2b,ship_service_level
-1,2024-01-01,Completed,Electronics,2,100,,False,Standard
-2,2024-01-02,Completed,Books,1,50,,False,Expedited
